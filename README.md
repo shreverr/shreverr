@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreverr
 - 👀 I’m interested in beginner c++
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
