@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreverr" alt="shreverr" /></a> </p>
 
-- 🔭 I’m currently working on **MeetCode**
+- 🔭 I’m currently working on **Pnacademy**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **verma2007s@gmail.com**
 
